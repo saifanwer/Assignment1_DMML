@@ -3,16 +3,22 @@
 
 Language used : Python
 
-Packages imported:
+Packages imported :
 
-	-pandas
+	pandas
 
-	-scikit-learn
+	scikit-learn
 
-		-model_selection.KFold
+		model_selection.KFold
 
-		-tree.DecisionTreeClassifier
+		tree.DecisionTreeClassifier
 
-		-naive_bayes.Multinomial
+		naive_bayes.Multinomial
 
-Classifier
+Classifiers built :
+
+	Decision Tree
+	
+	Naive Bayes
+	
+	Support Vector Machine

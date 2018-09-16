@@ -40,7 +40,7 @@ The three classifiers are applied using three functions __DecisionTree( )__, __N
 ### Support Vector Machine :  74.800 %
 
 
-## Time taken
+## Time Taken
 
 ### Decision Tree :           21.937 secs
 	
@@ -48,4 +48,4 @@ The three classifiers are applied using three functions __DecisionTree( )__, __N
 	
 ### Support Vector Machine :  2 min 44.861 secs
 
-
+to perform 10-fold Cross-Validation on the preprocessed _connect-4.data_. Or, more accurately, these are the times taken by the respctive three functions __DecisionTree( )__, __NBayesian( )__, and __SVMachine( )__.
